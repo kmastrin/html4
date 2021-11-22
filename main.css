@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: url("images/seasons.png") no-repeat;
+	background-size: cover;
+	
+}
+
+
+h1 {
+	font-size: 45px;
+	font-family: ganache,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+}
